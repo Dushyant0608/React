@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+} 
+body{
+  height: 100%;
+  width: 100%;
+  background-color: black;
+}
+
+.Card{
+  width: 40%;
+  margin: 20px;
+  padding: 20px;
+  background-color: crimson;
+}
